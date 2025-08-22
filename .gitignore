@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+.expo-shared/
+.env
+coverage/
+dist/
+functions/node_modules/
+functions/lib/
+.DS_Store
